@@ -1,7 +1,7 @@
 <h2>Introduction:</h2>
 <p>In this project we are working on data visualization. Zomato is launching a new campaign called ZomaLand, which will offer heavy discounts on top restaurants in Bengaluru City. The campaign is aimed at retaining customers who are about to churn and attracting new customers. The business question for the campaign is "Which are the top five restaurants from the top five areas of Bengaluru City?". The business objective is to launch a campaign which will give heavy discounts on top restaurants. The customer of the campaign could be to remind the customers who are about to churn and to attract new customers.</p>
 
-<h2>Detailed Explanation of Project</h2>
+<h2>Detailed Explanation of Project:</h2>
 
 ![Screenshot 2024-01-18 at 7 21 41 PM](https://github.com/sadhale-shreyas/zomaland_by_zomato/assets/143985440/ae591fc2-0314-4718-ad9a-060087edd380)
 
