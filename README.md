@@ -1,1 +1,28 @@
-# zomaland_by_zomato
+<h2>Introduction:</h2>
+<p>In this project we are working on data visualization. Zomato is launching a new campaign called ZomaLand, which will offer heavy discounts on top restaurants in Bengaluru City. The campaign is aimed at retaining customers who are about to churn and attracting new customers. The business question for the campaign is "Which are the top five restaurants from the top five areas of Bengaluru City?". The business objective is to launch a campaign which will give heavy discounts on top restaurants. The customer of the campaign could be to remind the customers who are about to churn and to attract new customers.</p>
+
+<h2>Detailed Explanation of Project</h2>
+
+![Screenshot 2024-01-18 at 7 21 41 PM](https://github.com/sadhale-shreyas/zomaland_by_zomato/assets/143985440/ae591fc2-0314-4718-ad9a-060087edd380)
+
+<p>Above is the flowchart that outlines a process for selecting the top ten restaurants in a given city. The process starts by identifying the top five most populous areas in the city. Next, the distribution of restaurant types in each of these areas is analyzed, and the most popular type of restaurant in each area is selected. Then, the price range of restaurants in each area is considered, and a price range that is likely to appeal to a large number of customers is chosen. Finally, the top ten restaurants within the chosen price range are selected based on their scores, which are calculated by taking an average of the restaurant's rating and the number of votes it has received.</p>
+
+![Screenshot 2024-01-18 at 7 21 48 PM](https://github.com/sadhale-shreyas/zomaland_by_zomato/assets/143985440/20e93709-f23b-4511-9b91-f397792bc939)
+
+<p>The graph shows the percentage of restaurants located in different areas of Bangalore. The graph shows that Whitefield area has the highest number of restaurants (61%), followed by Bannerghatta Road (7%), Belandur (6%), BTM Layout (6%), and Electronic City (6%). The top five areas contribute to 28% of the total restaurants in Bangalore. The graph also shows that most of the restaurants in Bangalore do not have online booking table availability options (90%). However, online order availability is relatively high, at 61.01%. Overall, the graph suggests that Whitefield is the most popular area for restaurants in Bangalore. It also suggests that online food ordering is more popular than online booking table reservations.</p>
+
+![Screenshot 2024-01-18 at 7 21 55 PM](https://github.com/sadhale-shreyas/zomaland_by_zomato/assets/143985440/867de1cf-3ac3-425f-b818-4006d92d8dce)
+
+<p>This data dive reveals Bangalore's restaurant landscape, showcasing the top districts for hungry customers. With a whopping 61% slice of the pie, Whitefield takes the crown for restaurant density, followed by Bannerghatta Road, Belandur, BTM Layout, and Electronic City, all hovering around the 6% mark. Together, these top five hotspots hold 28% of the city's restaurants, making them prime areas for exploring culinary delights. Interestingly, while online food ordering thrives with 61% availability, snagging a table virtually seems less popular, with online booking only offered by 10% of restaurants.</p>
+
+![Screenshot 2024-01-18 at 7 22 03 PM](https://github.com/sadhale-shreyas/zomaland_by_zomato/assets/143985440/23f2aa56-5f1f-4ffe-b57a-5f269e61b314)
+
+<p>The two data maps paint a fascinating picture of Bangalore's restaurant scene, offering insights for both hungry diners and curious analysts. One graph slices the pie by district, revealing Whitefield's dominance with a staggering 61% share of restaurants. It's followed by a tightly packed pack of Bannerghatta Road, Belandur, BTM Layout, and Electronic City, all claiming roughly 6% each. These top five hotspots together make up 28% of the city's culinary tapestry, making them prime hunting grounds for diverse and delicious experiences. The second map delves into the world of online reservations, revealing a curious dichotomy. While a whopping 61% of Bangalore's restaurants offer online ordering, snagging a table virtually seems less popular, with only 10% embracing online booking. This suggests a city where convenience reigns supreme for delivery, but the traditional charm of in-person dining still holds its own.</p>
+
+![Screenshot 2024-01-18 at 7 22 10 PM](https://github.com/sadhale-shreyas/zomaland_by_zomato/assets/143985440/a4795919-6c23-4924-b93b-273c791ee125)
+
+<p>The following two tablesmap are the foodie compass, navigating Bangalore’s vibrant culinary scene. Whitefield reigns supreme, with a whopping 61% slice of the restaurant pie. Craving variety? The top five hotspots, including Bannerghatta Road, Belandur, BTM Layout, and Electronic City, pack a diverse punch, accounting for 28% of the city’s eateries. But wait, there’s more! While online ordering thrives at 61%, snagging a table virtually seems less popular, with only 10% offering online booking.</p>
+
+![Screenshot 2024-01-18 at 7 22 16 PM](https://github.com/sadhale-shreyas/zomaland_by_zomato/assets/143985440/eae71bf9-f1d0-409e-9aa4-b8918b05546d)
+
+<p>Whitefield emerges as the undisputed king of culinary density, boasting a whopping 61% of the city's restaurants, while the top five hotspots – including Bannerghatta Road, Belandur, BTM Layout, and Electronic City – offer a diverse smorgasbord, accounting for 28% of eateries. Interestingly, while online ordering reigns supreme at 61%, snagging a table virtually seems less popular, with only 10% of restaurants offering online booking. This suggests a Bangalore where food delivery thrives on convenience, but the charm of in-person dining, with its table reservations and walk-ins, still holds its own.</p>
